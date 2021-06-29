@@ -7,7 +7,7 @@
           "type": "blobTrigger",
           "direction": "in",
           "path": "images/{name}",
-          "connection":"MyStorageAccountAppSetting"
+          "connection":"DefaultEndpointsProtocol=https;AccountName=storagetestrobertosantos;AccountKey=D2pIMw8m+FlJU27IXSEiYDA5s5xeumVoHt+3IW6WyyqsN2U+x7B60QA1KJT7BDM/Zn9/NFIUow/C0wOv+Z5gUw==;EndpointSuffix=core.windows.net"
       }
   ]
 }
